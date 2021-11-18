@@ -30,6 +30,8 @@ The data was divided to training set where 70% of the data were used to train th
 
 The second approach was non-linear classification where assume that nonlinear function used to separate classes. A Random Forest model was used in this case and the accuracy of the model on test set was 95% which shows a great fit. Also, the model shows 95% in each of a recall, precision, and F-score.
 
+As the main objective of this project is to predict the actual employees who most likely to get promoted. The recall of random forest model is preferable in comparison with logistic regression model. Therefore, the random forest model will be selected as predictive model of this project.
+
 
 
 # Tools
@@ -39,10 +41,6 @@ Numpy and Pandas for data manipulation, Matplotlib and Seaborn for plotting, Plo
 
 # Communication
 
-A Short presentation was used to give a summary of the analysis process and findings. 
-
-
-
-
+giving a summary of the analysis process and findings in form of short presentation
 
 
