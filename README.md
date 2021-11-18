@@ -41,6 +41,7 @@ Numpy and Pandas for data manipulation, Matplotlib and Seaborn for plotting, Plo
 
 # Communication
 
-giving a summary of the analysis process and findings in form of short presentation
+
+Giving a summary of the analysis process and findings in form of short presentation
 
 
